@@ -1,3 +1,5 @@
+// gcc fatorial.c -o fatorial
+
 #include "stdio.h"
 
 
