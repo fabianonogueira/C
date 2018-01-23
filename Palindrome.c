@@ -14,7 +14,6 @@ int main(int argc, char const *argv[])
 {
 	//char s[1000+1] = "kpsdjsdkfjjfkdsgaskljsaaa";
 	char s[1000+1] = "kpsdjsdkfjfkdsgaskljsaaa";
-	//char s[1000+1] = "baabad";
 	char p[1000+1];
 	char a[1000+1];
 	memset( p, 0, 1000 );
